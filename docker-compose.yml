@@ -1,0 +1,17 @@
+version: '3:8'
+
+services:
+  db:
+    restart: always
+    image: postgres
+    container_name: my-postgres-db
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD : root123
+      POSTGRES_DB : datacamp_etlcl
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - "C:/Users/00001/OneDrive//Documentos/volumes/data-pipeline:/var/lib/postgresql"
