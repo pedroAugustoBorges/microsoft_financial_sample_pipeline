@@ -1,0 +1,182 @@
+2026-02-06 20:27:15,389 - INFO = Start of program and logger
+2026-02-06 20:27:15,390 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:27:15,704 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:27:15,705 - INFO = Database connection closed
+2026-02-06 20:27:15,705 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:27:22,778 - INFO = Start of program and logger
+2026-02-06 20:27:22,779 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:27:22,848 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:27:22,848 - INFO = Database connection closed
+2026-02-06 20:27:22,849 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:29:19,924 - INFO = Start of program and logger
+2026-02-06 20:29:19,924 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:29:20,002 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:29:20,002 - INFO = Database connection closed
+2026-02-06 20:29:20,003 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:29:20,051 - INFO = Processing member selfdev_members
+2026-02-06 20:30:02,012 - INFO = Start of program and logger
+2026-02-06 20:30:02,012 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:30:02,078 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:30:02,078 - INFO = Database connection closed
+2026-02-06 20:30:02,079 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:30:03,985 - INFO = Start of program and logger
+2026-02-06 20:30:03,985 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:30:04,064 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:30:04,064 - INFO = Database connection closed
+2026-02-06 20:30:04,065 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:30:11,459 - INFO = Start of program and logger
+2026-02-06 20:30:11,460 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:30:11,660 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:30:11,661 - INFO = Database connection closed
+2026-02-06 20:30:11,662 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:31:28,259 - INFO = Start of program and logger
+2026-02-06 20:31:28,260 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:31:28,333 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:31:28,334 - INFO = Database connection closed
+2026-02-06 20:31:28,335 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:32:47,495 - INFO = Start of program and logger
+2026-02-06 20:32:47,495 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:32:47,575 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:32:47,575 - INFO = Database connection closed
+2026-02-06 20:32:47,576 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:32:59,128 - INFO = Start of program and logger
+2026-02-06 20:32:59,129 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:32:59,216 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:32:59,217 - INFO = Database connection closed
+2026-02-06 20:32:59,217 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:33:08,765 - INFO = Start of program and logger
+2026-02-06 20:33:08,765 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:33:08,867 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:33:08,868 - INFO = Database connection closed
+2026-02-06 20:33:08,869 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:33:26,046 - INFO = Start of program and logger
+2026-02-06 20:33:26,047 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:33:26,128 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:33:26,129 - INFO = Database connection closed
+2026-02-06 20:33:26,129 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:33:48,728 - INFO = Start of program and logger
+2026-02-06 20:33:48,728 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:33:48,804 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:33:48,805 - INFO = Database connection closed
+2026-02-06 20:33:48,807 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:34:17,075 - INFO = Start of program and logger
+2026-02-06 20:34:17,076 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:34:17,136 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:34:17,137 - INFO = Database connection closed
+2026-02-06 20:34:17,138 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:34:53,539 - INFO = Start of program and logger
+2026-02-06 20:34:53,539 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:34:53,631 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:34:53,632 - INFO = Database connection closed
+2026-02-06 20:34:53,633 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:35:33,373 - INFO = Start of program and logger
+2026-02-06 20:35:33,374 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:35:33,437 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:35:33,438 - INFO = Database connection closed
+2026-02-06 20:35:33,440 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:37:00,587 - INFO = Start of program and logger
+2026-02-06 20:37:00,588 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:37:00,709 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:37:00,710 - INFO = Database connection closed
+2026-02-06 20:37:00,710 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:48:20,159 - INFO = Start of program and logger
+2026-02-06 20:48:20,160 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:48:20,333 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:48:20,334 - INFO = Database connection closed
+2026-02-06 20:48:20,334 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:48:20,429 - INFO = Executed query 
+    CREATE TABLE IF NOT EXISTS members(
+        id SERIAL PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        discord_id VARCHAR(255) NOT NULL,
+        coding_motivattion VARCHAR(255) NOT NULL
+    )
+    
+2026-02-06 20:48:20,472 - ERROR = column "coding_motivation" of relation "members" does not exist
+LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
+                                                   ^
+
+2026-02-06 20:48:20,479 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:48:20,481 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:48:20,489 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:48:20,490 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:49:16,509 - INFO = Start of program and logger
+2026-02-06 20:49:16,510 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:49:16,604 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:49:16,604 - INFO = Database connection closed
+2026-02-06 20:49:16,605 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:49:16,658 - INFO = Executed query 
+    CREATE TABLE IF NOT EXISTS members(
+        id SERIAL PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        discord_id VARCHAR(255) NOT NULL,
+        coding_motivattion VARCHAR(255) NOT NULL
+    )
+    
+2026-02-06 20:50:05,641 - INFO = Start of program and logger
+2026-02-06 20:50:05,641 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:50:05,771 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:50:05,771 - INFO = Database connection closed
+2026-02-06 20:50:05,772 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:50:05,971 - INFO = Executed query 
+    CREATE TABLE IF NOT EXISTS members(
+        id SERIAL PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        discord_id VARCHAR(255) NOT NULL,
+        coding_motivattion VARCHAR(255) NOT NULL
+    )
+    
+2026-02-06 20:50:05,981 - ERROR = column "coding_motivation" of relation "members" does not exist
+LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
+                                                   ^
+
+2026-02-06 20:50:05,984 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:05,986 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:05,988 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:05,990 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:32,203 - INFO = Start of program and logger
+2026-02-06 20:50:32,204 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:50:32,342 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:50:32,342 - INFO = Database connection closed
+2026-02-06 20:50:32,343 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:50:32,407 - INFO = Executed query 
+    CREATE TABLE IF NOT EXISTS members(
+        id SERIAL PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        discord_id VARCHAR(255) NOT NULL,
+        coding_motivation VARCHAR(255) NOT NULL
+    )
+    
+2026-02-06 20:50:32,411 - ERROR = column "coding_motivation" of relation "members" does not exist
+LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
+                                                   ^
+
+2026-02-06 20:50:32,412 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:32,414 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:32,415 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:32,416 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+
+2026-02-06 20:50:50,102 - INFO = Start of program and logger
+2026-02-06 20:50:50,102 - INFO = Connecting to the PostgreeSQL database
+2026-02-06 20:50:50,272 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-06 20:50:50,272 - INFO = Database connection closed
+2026-02-06 20:50:50,273 - INFO = Connecting to the PostgreSQL database
+2026-02-06 20:50:50,375 - INFO = Executed query 
+    CREATE TABLE IF NOT EXISTS members(
+        id SERIAL PRIMARY KEY,
+        name VARCHAR(255) NOT NULL,
+        discord_id VARCHAR(255) NOT NULL,
+        coding_motivation VARCHAR(255) NOT NULL
+    )
+    
