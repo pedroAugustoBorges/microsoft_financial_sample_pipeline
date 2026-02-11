@@ -12,7 +12,7 @@ def check_file(path):
         return False
         
 
-def extract_data(path):
+def extract_data(path = PATH):
     if check_file:
         with open(path, encoding='utf-8') as f:
             data = json.load(f)
@@ -28,8 +28,6 @@ def extract_data(path):
         
 
 
-df = extract_data(PATH)
-print(df)
 
 
 
