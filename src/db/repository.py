@@ -12,8 +12,7 @@ def insert_member(psql_conn, member):
     motivation_member = EXCLUDED.motivation_member
     """
     
-    print(member)
-    
+
     try:
         with psql_conn.cursor() as curr:
             curr = psql_conn.cursor()
